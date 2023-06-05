@@ -1,0 +1,13 @@
+{
+  "name": "pandapi",
+  "version": "1.0.0",
+  "description": "Pandora API",
+  "main": "index.mjs",
+  "repository": "https://github.com/cookey-dev/pandapi",
+  "author": "Rowan C",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "got": "^13.0.0"
+  }
+}
